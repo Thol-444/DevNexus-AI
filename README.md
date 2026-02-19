@@ -11,7 +11,7 @@
 - 🎯 Prepare for top-tier technical interviews  
 
 🔗 **Live URL:**  
-https://devnexus-coderefine.lovable.app
+https://dev-nexus-ai-mocha.vercel.app
 *(Update after deployment)*
 
 ---
